@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sristi-malla.github.io/csb-4n4we/static/css/main.93d8ace2.chunk.css",
+    "main.js": "https://sristi-malla.github.io/csb-4n4we/static/js/main.479975b7.chunk.js",
+    "main.js.map": "https://sristi-malla.github.io/csb-4n4we/static/js/main.479975b7.chunk.js.map",
+    "runtime-main.js": "https://sristi-malla.github.io/csb-4n4we/static/js/runtime-main.f0b1d543.js",
+    "runtime-main.js.map": "https://sristi-malla.github.io/csb-4n4we/static/js/runtime-main.f0b1d543.js.map",
+    "static/js/2.43ef96f1.chunk.js": "https://sristi-malla.github.io/csb-4n4we/static/js/2.43ef96f1.chunk.js",
+    "static/js/2.43ef96f1.chunk.js.map": "https://sristi-malla.github.io/csb-4n4we/static/js/2.43ef96f1.chunk.js.map",
+    "index.html": "https://sristi-malla.github.io/csb-4n4we/index.html",
+    "static/css/main.93d8ace2.chunk.css.map": "https://sristi-malla.github.io/csb-4n4we/static/css/main.93d8ace2.chunk.css.map",
+    "static/js/2.43ef96f1.chunk.js.LICENSE.txt": "https://sristi-malla.github.io/csb-4n4we/static/js/2.43ef96f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b1d543.js",
+    "static/js/2.43ef96f1.chunk.js",
+    "static/css/main.93d8ace2.chunk.css",
+    "static/js/main.479975b7.chunk.js"
+  ]
+}
